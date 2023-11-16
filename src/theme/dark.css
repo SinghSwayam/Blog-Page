@@ -2,6 +2,7 @@
 .dark {
     background-image: linear-gradient(to right, #000348, #180547, #260547, #320746, #3b0945);
     color: rgb(240, 237, 237);
+    transition: all 0.4s;
 }
 
 .dark .light_header{
@@ -10,14 +11,17 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     color: rgb(216, 216, 216);
+    transition: all 0.4s;
 }
 
 .dark .blog_content{
     color: rgb(233, 233, 233);
+    transition: all 0.4s;
 }
 
 .dark .blog_tags{
     color: rgb(0, 213, 233);
+    transition: all 0.4s;
 }
 
 .dark .light_Pageination{
@@ -26,8 +30,10 @@
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     color: white;
+    transition: all 0.4s;
 }
 
 .dark .Pageination_btn{
     border: 2px solid rgb(169, 169, 169);
+    transition: all 0.4s;
 }
