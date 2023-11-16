@@ -1,0 +1,33 @@
+
+.light {
+    background-image: linear-gradient(to right, #dc812e, #e09821, #deb015, #d7c814, #c9e126);
+    color: rgb(25, 22, 22);
+}
+
+.light .light_header{
+    background-image: linear-gradient(to right, #dc812e, #e09821, #deb015, #d7c814, #c9e126);
+    border-bottom: 3px solid rgba(215, 46, 46, 0.449);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    color: rgb(0, 0, 0);
+}
+
+.light .blog_content{
+    color: rgb(0, 0, 0);
+}
+
+.light .blog_tags{
+    color: rgb(210, 5, 5)
+}
+
+.light .light_Pageination{
+    background-image: linear-gradient(to right, #dc812e, #e09821, #deb015, #d7c814, #c9e126);
+    border-top: 3px solid rgba(215, 46, 46, 0.449);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: rgb(0, 0, 0);
+}
+
+.light .Pageination_btn{
+    border: 3px solid rgba(19, 19, 19, 0.763);
+}
